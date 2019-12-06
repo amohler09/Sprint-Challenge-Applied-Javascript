@@ -23,6 +23,5 @@ function createTab(object) {
     tab.classList.add('tab');
     tab.textContent = object;
     
-    
     return tab;
     }
