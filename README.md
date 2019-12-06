@@ -29,19 +29,24 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+    Document Object Module - representation of the HTML document
 
 2. What is an event?
+    An event is something that happens on a webpage. It could be the page loading, clicking a button, hovering over something, or any manipulation to the browser window.
 
 3. What is an event listener?
+    An event listener is a method attached to an event which tells the even when to happen and which part of the page it should happen on.
 
 4. Why would we convert a NodeList into an Array?
+    Nodelists are array-like because they are 0-indexed and the length property can be used on them, but you cannot use any array methods on them.
 
 5. What is a component?
+    A component is a reusable piece of code that is created once so that it can accept large amounts data and output results very quickly; it also helps keep your code DRY.
 
 ### Git Set up
 
-* [ ] Fork the project into your GitHub user account
-* [ ] Clone the forked project into a directory on your machine
+* [ x] Fork the project into your GitHub user account
+* [ x] Clone the forked project into a directory on your machine
 * [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
 * [ ] You are now ready to build this project with your preferred IDE
 
